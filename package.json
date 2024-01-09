@@ -21,7 +21,7 @@
     "encoding": "^0.1.13",
     "eslint": "8.56.0",
     "eslint-config-next": "14.0.4",
-    "langchain": "^0.0.156",
+    "langchain": "^0.1.0",
     "next": "14.0.4",
     "pdf-parse": "^1.1.1",
     "postcss": "8.4.27",
